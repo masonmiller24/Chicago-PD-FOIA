@@ -1,0 +1,6 @@
+Chicago Open Data Portal: https://data.cityofchicago.org/browse?category=Public%20Safety
+
+Crimes from 2001-current
+Shapefiles of police districts and beats
+
+Allows for comparison of officer task environment in any time window
